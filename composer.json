@@ -1,0 +1,22 @@
+{
+  "name": "lyragosa/eloquent-composite-primary-keys",
+  "description": "Make Laravel Eloquent Database Support Composite Primary Keys",
+  "authors": [
+    {
+      "name": "Lyragosa",
+      "email": "lyragosa@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "src/"
+    ],
+    "psr-4": {
+      "lyragosa\\Laravel\\Eloquent\\": "src"
+    }
+  },
+  "license": "MIT",
+  "require": {
+    "php": "^8.0 || ^8.1"
+  }
+}
