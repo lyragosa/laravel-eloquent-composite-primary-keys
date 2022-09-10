@@ -1,6 +1,6 @@
 <?php
 
-namespace lyragosa\Laravel\Eloquent\HasCompositePrimaryKeys;
+namespace lyragosa\Laravel\Eloquent;
 
 use Exception;
 use Illuminate\Database\Eloquent\Builder;
