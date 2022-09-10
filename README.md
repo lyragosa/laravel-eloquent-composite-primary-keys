@@ -19,7 +19,9 @@ Make Laravel Eloquent Database Support Composite Primary Keys
 # Thanks
 
 [https://github.com/thiagoprz/eloquent-composite-key]
+
 [https://github.com/mpociot/laravel-composite-key]
+
 [https://stackoverflow.com/questions/60145867/how-to-create-composite-key-in-orm-eloquent-laravel-6-2]
 
 # License
